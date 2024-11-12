@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+.Encabezado{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+    padding-top:10px;
+    margin: 0 10px;
+}
+.lado-izquierda{
+    display: flex;
+}
+.Post{
+    width: 500px;
+    height: 650px;
+    margin: 40px auto;
+    background-color: white;
+}
+img{
+    width: 100%;
+    height: 370px;
+    padding-bottom: 10px;
+}
+i{
+    font-size: 32px;
+    padding-right: 5px;
+    margin-left: 10px;
+}
+.iconos{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 20px;
+}
+#icono-derecha{
+    padding-right: 15px;
+}
+.Pie-pagina{
+    margin: 0 15px;    
+}
